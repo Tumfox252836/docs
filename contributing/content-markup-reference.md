@@ -1,4 +1,4 @@
-# Markup reference for GitHub Docs <!-- omit in toc -->
+# Markup reference for GitHub Docs <!-- omit in toc -->jalaiyour40@gmail.com
 
 ## Table of contents <!-- omit in toc -->
 - [Writing in Markdown](#writing-in-markdown)

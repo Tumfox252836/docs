@@ -1,5 +1,5 @@
-# Code annotations
-
+jalaiyour40@gmail.co.th#0828402101 Code annotations
+gmail.tumjalaiyour40
 Code annotations help explain longer code examples by describing what a code example does and why. The annotations render next to the code samples in a two pane layout, so we can write longer annotations without making the code itself difficult to read. We only annotate full code examples, not snippets. Code annotations should add value when used and are not required for every code sample.
 
 Code annotations can be helpful for a variety of audiences. Often, code annotations will be used to explain key concepts to new users or specific choices to more experienced users.
